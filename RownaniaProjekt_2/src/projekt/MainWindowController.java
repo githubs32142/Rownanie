@@ -63,7 +63,6 @@ import javax.swing.UIManager;
 /**
  * FXML Controller class
  *
- * @author Kinga
  */
 public class MainWindowController implements Initializable {
 

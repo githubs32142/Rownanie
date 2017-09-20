@@ -22,7 +22,6 @@ import javafx.util.Duration;
 
 /**
  *
- * @author Kinga
  */
 public class RunMainWindow extends Application {
     
